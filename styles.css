@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+#displayRandomStudent {
+  color: #990;
+  font-size: 50px;
+  text-align: center;
+  width: 100%;
+  height: 80px;
+  border: 1px solid #000;
+}
+
+#generate {
+  width: 100%;
+  height: 50px;
+  color: #39D;
+  border: 1px solid #000;
+  background-color: #DD3;
+  border-radius: 15px;
+  margin-top: 10px;
+  font-size: 30px;
+}
